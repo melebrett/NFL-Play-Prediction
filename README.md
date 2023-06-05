@@ -1,1 +1,3 @@
-# AI and Deep Learning (MSDS458) Final Project
+# NFL Play Prediction
+## Final Project
+## MSDS 458 AI and Deep Learning
