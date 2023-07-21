@@ -1,6 +1,6 @@
-MSDS458 AI and Deep Learning 
-Final Project
-6/19/2023
+MSDS458 AI and Deep Learning  
+Final Project  
+6/19/2023  
 
 # NFL Play Prediction 
 
